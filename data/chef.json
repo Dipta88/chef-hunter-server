@@ -1,0 +1,59 @@
+{
+    "chefs": [
+      {
+        "id": 1,
+        "name": "John Smith",
+        "picture": "https://example.com/chef1.jpg",
+        "yearsOfExperience": 10,
+        "numRecipes": 120,
+        "likes": 800,
+        "recipesUrl": "https://example.com/chef1/recipes"
+      },
+      {
+        "id": 2,
+        "name": "Jane Doe",
+        "picture": "https://example.com/chef2.jpg",
+        "yearsOfExperience": 8,
+        "numRecipes": 90,
+        "likes": 600,
+        "recipesUrl": "https://example.com/chef2/recipes"
+      },
+      {
+        "id": 3,
+        "name": "Bob Johnson",
+        "picture": "https://example.com/chef3.jpg",
+        "yearsOfExperience": 15,
+        "numRecipes": 180,
+        "likes": 1200,
+        "recipesUrl": "https://example.com/chef3/recipes"
+      },
+      {
+        "id": 4,
+        "name": "Samantha Lee",
+        "picture": "https://example.com/chef4.jpg",
+        "yearsOfExperience": 6,
+        "numRecipes": 70,
+        "likes": 400,
+        "recipesUrl": "https://example.com/chef4/recipes"
+      },
+      {
+        "id": 5,
+        "name": "Michael Nguyen",
+        "picture": "https://example.com/chef5.jpg",
+        "yearsOfExperience": 12,
+        "numRecipes": 150,
+        "likes": 1000,
+        "recipesUrl": "https://example.com/chef5/recipes"
+      },
+      {
+        "id": 6,
+        "name": "Emily Wilson",
+        "picture": "https://example.com/chef6.jpg",
+        "yearsOfExperience": 9,
+        "numRecipes": 100,
+        "likes": 700,
+        "recipesUrl": "https://example.com/chef6/recipes"
+      }
+    ]
+  }
+  

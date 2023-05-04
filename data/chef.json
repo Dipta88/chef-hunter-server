@@ -44,16 +44,8 @@
         "numRecipes": 150,
         "likes": 1000,
         "recipesUrl": "https://example.com/chef5/recipes"
-      },
-      {
-        "id": 6,
-        "name": "Emily Wilson",
-        "picture": "https://example.com/chef6.jpg",
-        "yearsOfExperience": 9,
-        "numRecipes": 100,
-        "likes": 700,
-        "recipesUrl": "https://example.com/chef6/recipes"
       }
+     
     ]
   }
   
